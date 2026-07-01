@@ -1,0 +1,8 @@
+{
+  "name": "タイピングシューティング【07011525】",
+  "description": "ネオン・サイバーパンクの電脳空間を舞台に、音楽のビートに合わせて迫り来る3Dノーツを、マウスのエイムとキーボード入力で撃ち落とす、爽快な3Dシューティングリズムゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
